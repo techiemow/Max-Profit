@@ -67,7 +67,8 @@ function EarningsCalculator() {
 
   return (
     <div className="calculator-container">
-      <h2>Earnings Calculator</h2>
+
+      <h2>Solutions Calculator</h2>
       <form onSubmit={handleSubmit} className="form">
         <div className="form-group">
           <label>Time Unit:</label>

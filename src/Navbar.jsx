@@ -5,8 +5,8 @@ const Navbar = () => {
     <header 
       style={{
         width: "100%",
-        height: "60px", // Adjust height as desired
-        backgroundColor: "#4CAF50", // Set your preferred background color
+        height: "60px", 
+        backgroundColor: "#4CAF50", 
         fontWeight: "bold",
         color: "#fff",
         textAlign: "center",
